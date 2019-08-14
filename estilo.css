@@ -1,31 +1,27 @@
 head {
-	width: 100%;
+    width: 75%;
 }
+
 body {
-	background:#000000;
-	color:#FFFFFF;
-	text-align: center;
+    background: #000000;
+    color: #FFFFFF;
 }
-form {
-	text-align:center;
-}
+
 article {
-	text-align: center;
+    text-align: center;
 }
 
 aside {
-
-	float: right;
-	width: 20%;
-	margin-top: -42%;
+    float: right;
+    width: 16%;
+    display: inline-block;
 }
+
 footer {
-	position: relative;
-	bottom: 10px;
-	display: block;
-	clear: both;
-	text-align: center;
-	width: 99%;
-
-
+    position: relative;
+    bottom: 10px;
+    display: block;
+    clear: both;
+    text-align: center;
+    width: 100%;
 }
